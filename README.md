@@ -80,6 +80,7 @@ A curated list of resources for [PHP](https://php.net/)
 * [Devzone PHP](https://devzone.zend.com/welcome-to-php/)
 * [Learn PHP in Y minutes](https://learnxinyminutes.com/docs/php/)
 * [PHP Apprentice](https://phpapprentice.com/) An online book for learning PHP
+* [PHP Training] (https://phptraining.com/) Free Video Tutorial to learn PHP
 
 ## Videos
 
